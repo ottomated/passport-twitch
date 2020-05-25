@@ -1,6 +1,6 @@
 {
   "name": "passport-twitch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Twitch (OAuth) authentication strategies for Passport.",
   "keywords": [
     "passport",
@@ -15,15 +15,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Schmoopiie/passport-twitch.git"
+    "url": "git://github.com/ottomated/passport-twitch.git"
   },
   "bugs": {
-    "url": "http://github.com/Schmoopiie/passport-twitch/issues"
+    "url": "http://github.com/ottomated/passport-twitch/issues"
   },
   "author": {
-    "name": "Schmoopiie",
-    "email": "Schmoopiie@gmail.com",
-    "url": "http://www.schmoopiie.com/"
+    "name": "Ottomated",
+    "email": "otto@ottomated.net",
+    "url": "http://ottomated.net/"
   },
   "licenses": [
     {
@@ -44,10 +44,10 @@
   },
   "maintainers": [
     {
-      "name": "Schmoopiie",
-      "email": "Schmoopiie@gmail.com"
+      "name": "Ottomated",
+      "email": "otto@ottomated.net"
     }
   ],
   "directories": {},
-  "homepage": "https://github.com/Schmoopiie/passport-twitch"
+  "homepage": "https://github.com/ottomated/passport-twitch"
 }
