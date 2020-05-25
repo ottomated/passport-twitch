@@ -1,5 +1,5 @@
 {
-  "name": "passport-twitch",
+  "name": "@ottomated/passport-twitch",
   "version": "1.0.4",
   "description": "Twitch (OAuth) authentication strategies for Passport.",
   "keywords": [
